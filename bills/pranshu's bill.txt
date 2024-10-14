@@ -1,0 +1,4 @@
+Bill Breakdown: 
+milk:                     ...$102 
+tip:                      ...$10 
+total:                    ...$112.00
